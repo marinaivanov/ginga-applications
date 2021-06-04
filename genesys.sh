@@ -37,17 +37,6 @@ make linux test
 sudo make install
 cd ~
 
-
-echo "instalando lua 5.3..."
-cd ~/Downloads
-curl -R -O "http://www.lua.org/ftp/lua-5.3.4.tar.gz"
-tar -zxf lua-5.3.4.tar.gz
-cd lua-5.3.4/
-make linux test
-sudo make install
-cd ~
-
-
 echo "instalando luarocks..."
 wget "https://luarocks.org/releases/luarocks-3.2.1.tar.gz"
 tar zxpf luarocks-3.2.1.tar.gz
@@ -56,7 +45,6 @@ cd luarocks-3.2.1/
 make build
 sudo make install
 cd ~
-
 
 echo "instalando git..."
 sudo apt-get install git
@@ -99,6 +87,13 @@ ninja
 ninja test
 cd ~
 echo "AVISO: Copiar a pasta jsoncpp em Downloads para a pasta de bibliotecas do seu projeto"
+
+echo "Instalando restclient.cpp"
+cd ~/Downloads
+git clone https://github.com/mrtazz/restclient-cpp.git
+./autogen.sh
+./configure
+make install
 
 echo "Instalando Ginga..." 
 cd ~/Desktop
