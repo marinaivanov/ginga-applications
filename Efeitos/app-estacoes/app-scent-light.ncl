@@ -13,7 +13,7 @@
 		<descriptor id="desc2"  region="rg1" explicitDur="15s"/> 
 		<descriptor id="desc3"  region="rg1" explicitDur="15s"/> 
 		<descriptor id="descL"  region="rg2" intensityValue="100" intensityRange="[0,10]" color="blue"/>
-		<descriptor id="descScent"  region="rg2" intensityValue="10" intensityRange="[0,10]" scent="Sea"/>
+		<descriptor id="descScent"  region="rg2" intensityValue="10" intensityRange="[0,10]" scent="urn:mpeg:mpeg-v:01-SI-ScentCS-NS:out_at_sea"/>
 	</descriptorBase>
 	
 	<connectorBase>
@@ -60,7 +60,7 @@
 		<media id="video2" src="media/forest_720.mp4" descriptor="desc2"/>
 		<media id="video3" src="media/lavender_720.mp4" descriptor="desc3"/>
 		
-		<effect id="lightEffect" type="light" descriptor="descL">
+		<effect id="lightEffect" type="LightType" descriptor="descL">
 			<property name="color" value="orange"/>
 			<property name="intensityValue" value="100"/>
 		</effect>
