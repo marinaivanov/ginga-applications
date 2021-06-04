@@ -13,7 +13,7 @@
 		<descriptor id="desc2"  region="rg1" explicitDur="15s"/> 
 		<descriptor id="desc3"  region="rg1" explicitDur="15s"/> 
 		<descriptor id="descL"  region="rg2" intensityValue="100" intensityRange="[0,10]" color="blue"/>
-		<descriptor id="descScent"  region="rg2" intensityValue="10" intensityRange="[0,10]" scent="urn:mpeg:mpeg-v:01-SI-ScentCS-NS:out_at_sea"/>
+		<descriptor id="descScent"  region="rg2" intensityValue="10" intensityRange="[0,10]" scent="Sea"/>
 	</descriptorBase>
 	
 	<connectorBase>
@@ -65,7 +65,7 @@
 			<property name="intensityValue" value="100"/>
 		</effect>
 
-		<effect id="scentEffect" type="ScentType" descriptor="desc2"/>
+		<effect id="scentEffect" type="ScentType" descriptor="descScent"/>
 
 		<link xconnector="onBeginStart">
 			<bind role="onBegin" component="video1"  />
