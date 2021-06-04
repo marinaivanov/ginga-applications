@@ -105,6 +105,8 @@
 			<bind role="onEnd" component="video3" />
 			<bind role="stop" component="lightEffect" />
 			<bind role="stop" component="audio" />
+			<bind role="stop" component="scentEffect" />
+
 		</link>
 
 </body>
