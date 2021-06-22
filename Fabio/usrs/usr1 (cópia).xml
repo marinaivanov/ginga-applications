@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ud:UD xmlns="urn:mpeg:mpeg21:UD:UD:2016" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="
+urn:mpeg:mpeg21:UD:UD:2016 1.MPEG-UD-UD.xsd">
+    <UserID>U101</UserID>
+    <ud:UserProfile xsi:type="ud:GroupedProfileType">
+    	<ud:gender>male</ud:Gender>
+    	<ud:Preference>
+      	   <ud:color>blue</ud:color>
+    	</ud:Preference>  
+      	<ud:User xsi:type="ud:PersonProfileType">
+          <ud:PersonInformation>
+              <mpeg7:Name>
+                    <mpeg7:GivenName>João</mpeg7:GivenName>
+              </mpeg7:Name>
+          </ud:PersonInformation>
+       	</ud:User>
+    </ud:UserProfile>
+</ud:UD>

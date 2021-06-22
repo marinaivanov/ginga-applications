@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UD>
+    <User>
+    	<id>U101</id>
+        <name>João</name>
+   	<gender>male</gender>
+   	<age>35</age>
+   	<blind>no</blind> 
+	<deaf>no</deaf> 
+    </User>
+</UD>
