@@ -72,7 +72,7 @@ echo "Instalando Meson..."
 pip3 install meson
 
 echo "Instalando Ninja..."
-apt-get install ninja-build
+sudo apt-get install ninja-build
 
 echo "Instalando módulo JsonCpp..."
 cd ~/Downloads
@@ -91,9 +91,10 @@ echo "AVISO: Copiar a pasta jsoncpp em Downloads para a pasta de bibliotecas do 
 echo "Instalando restclient.cpp"
 cd ~/Downloads
 git clone https://github.com/mrtazz/restclient-cpp.git
+cd restclient-cpp
 ./autogen.sh
 ./configure
-make install
+sudo make install
 
 echo "Instalando Ginga..." 
 cd ~/Desktop
