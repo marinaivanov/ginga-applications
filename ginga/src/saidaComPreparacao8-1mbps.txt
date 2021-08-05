@@ -1,0 +1,266 @@
+Iniciando o Ginga
+21:03:01.330074593
+starting video
+21:03:01.420854121
+start presentation video
+starting advertising
+21:03:18.405836204
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:03:18.475414083
+preparadoooo advertising
+21:03:29.300423383
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:03:39.953987066
+starting video
+21:03:40.050083029
+start presentation video
+starting advertising
+21:03:57.005067369
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:03:57.061455351
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:04:18.470029512
+starting video
+21:04:18.566417888
+start presentation video
+starting advertising
+21:04:35.545091220
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:04:35.610786113
+preparadoooo advertising
+21:04:46.042740362
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:04:57.030544259
+starting video
+21:04:57.128663031
+start presentation video
+starting advertising
+21:05:14.095374442
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:05:14.173468005
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:05:35.603291676
+starting video
+21:05:35.696955883
+start presentation video
+starting advertising
+21:05:52.672909353
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:05:52.728670853
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:06:14.206349838
+starting video
+21:06:14.299004246
+start presentation video
+starting advertising
+21:06:31.265419375
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:06:31.327548122
+preparadoooo advertising
+21:06:41.168350867
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:06:52.765269679
+starting video
+21:06:52.858268783
+start presentation video
+starting advertising
+21:07:09.822134172
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:07:09.887377012
+preparadoooo advertising
+21:07:19.686908945
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:07:31.471823441
+starting video
+21:07:31.564339820
+start presentation video
+starting advertising
+21:07:48.542340743
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:07:48.611149925
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:08:10.134583188
+starting video
+21:08:10.229161141
+start presentation video
+starting advertising
+21:08:27.217983052
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:08:27.272997776
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:08:48.736164663
+starting video
+21:08:48.829773342
+start presentation video
+starting advertising
+21:09:05.800965005
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:09:05.859584619
+preparadoooo advertising
+21:09:19.946469923
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:09:27.257695824
+starting video
+21:09:27.351378406
+start presentation video
+starting advertising
+21:09:44.314437430
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:09:44.393157675
+preparadoooo advertising
+21:09:54.282962221
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:10:05.949522516
+starting video
+21:10:06.040498856
+start presentation video
+starting advertising
+21:10:23.026411637
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:10:23.082462336
+preparadoooo advertising
+21:10:32.952292611
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:10:44.708291598
+starting video
+21:10:44.806620203
+start presentation video
+starting advertising
+21:11:01.768367169
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:11:01.829402899
+preparadoooo advertising
+21:11:11.380921001
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:11:23.269046730
+starting video
+21:11:23.369185922
+start presentation video
+starting advertising
+21:11:40.334165686
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:11:40.390679084
+preparadoooo advertising
+21:11:50.366022812
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:12:01.993497973
+starting video
+21:12:02.083710396
+start presentation video
+starting advertising
+21:12:19.052434917
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:12:19.110875843
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:12:40.682490284
+starting video
+21:12:40.775718089
+start presentation video
+starting advertising
+21:12:57.733957282
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:12:57.791404831
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:13:19.339806780
+starting video
+21:13:19.434673801
+start presentation video
+starting advertising
+21:13:36.388471441
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:13:36.460289229
+preparadoooo advertising
+21:13:46.677762009
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:13:58.049693457
+starting video
+21:13:58.140753922
+start presentation video
+starting advertising
+21:14:15.124686088
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:14:15.183832682
+preparadoooo advertising
+21:14:24.906276839
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:14:36.613335244
+starting video
+21:14:36.706053744
+start presentation video
+starting advertising
+21:14:53.694023325
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:14:53.753382795
+preparadoooo advertising
+21:15:02.681061355
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+21:15:15.259918795
+starting video
+21:15:15.350217649
+start presentation video
+starting advertising
+21:15:32.339683862
+start presentation advertising
+modificação na propriedade soundLevel 0
+21:15:32.417624571
+preparadoooo advertising
+21:15:40.490115344
+stop presentation advertising
+stop presentation video
