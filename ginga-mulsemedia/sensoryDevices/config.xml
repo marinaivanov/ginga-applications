@@ -1,0 +1,35 @@
+<devices>
+
+<deviceDescription>
+    <id>moodoDevice</id>
+    <effectType>scent</effectType>
+    <minIntensity>0</minIntensity>
+    <maxIntensity>5</maxIntensity>
+    <zerothOrderDelayTime>2</zerothOrderDelayTime> 
+    <firstOrderDelayTime>0.5</firstOrderDelayTime>
+    <locator>center:middle:left</locator>
+    <unit>ml</unit>
+    <numOfLevels>4</numOfLevels>
+    <supportedValues>
+        <value>Sea</value>
+        <value>Coconuts</value>
+        <value>Amber Marine</value>
+        <value>Sweet</value>
+    </supportedValues>
+</deviceDescription>
+<deviceDescription>
+    <id>lightDevice</id>
+    <effectType>light</effectType>
+    <minIntensity>0</minIntensity>
+    <maxIntensity>5</maxIntensity>
+    <zerothOrderDelayTime>2</zerothOrderDelayTime> 
+    <firstOrderDelayTime>0.5</firstOrderDelayTime>
+    <locator>center:middle:left</locator>
+    <unit>lumens</unit>
+    <numOfLevels>4</numOfLevels>
+    <supportedValues>
+        <value>Yellow</value>
+    </supportedValues>
+</deviceDescription>
+
+</devices>

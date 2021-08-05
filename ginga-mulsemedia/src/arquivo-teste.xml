@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<devices><deviceDescription><id>lightDevice</id><effectType>LightType</effectType><minIntensity>0</minIntensity><maxIntensity>5</maxIntensity><locator>center:middle:left</locator><unit>lumens</unit><numOfLevels>4</numOfLevels><deviceDescription><id>moodoDevice</id><effectType>ScentType</effectType><minIntensity>0</minIntensity><maxIntensity>5</maxIntensity><locator>center:middle:left</locator><unit>ml</unit><numOfLevels>4</numOfLevels></deviceDescription></deviceDescription></devices>
