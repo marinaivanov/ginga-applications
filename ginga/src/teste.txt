@@ -1,0 +1,3 @@
+date +%H:%M:%S:%N
+date +%T.%N
+date +%T.%N
