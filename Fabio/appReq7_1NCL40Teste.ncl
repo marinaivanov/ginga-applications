@@ -27,7 +27,7 @@
   </head>
 <body>
 		<port id="pVideo" component="florestaVideo" />
-		<media id="florestaVideo" src="videos/forest_720.mp4" descriptor="florestaVideoRegDesc"/>
+		<media id="florestaVideo" src="videos/snow_720.mp4" descriptor="florestaVideoRegDesc"/>
     <link xconnector="onVoiceRecognitionPause">
           <bind role="onVoiceRecognition" component="florestaVideo">
             <bindParam name="key" value="pause"/>
