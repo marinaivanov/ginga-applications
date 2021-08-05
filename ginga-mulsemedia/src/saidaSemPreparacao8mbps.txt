@@ -1,0 +1,110 @@
+Iniciando o Ginga
+23:24:15.456190232
+start presentation __settings__
+Starting media video
+23:24:15.567644613
+start presentation video
+Starting media advertising
+23:24:32.553070671
+start presentation advertising
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+23:24:54.104895630
+start presentation __settings__
+Starting media video
+23:24:54.219664928
+start presentation video
+Starting media advertising
+23:25:11.175576611
+start presentation advertising
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+23:25:32.757139025
+start presentation __settings__
+Starting media video
+23:25:32.872888855
+start presentation video
+Starting media advertising
+23:25:49.842135558
+start presentation advertising
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+23:26:11.395848844
+start presentation __settings__
+Starting media video
+23:26:11.515822173
+start presentation video
+Starting media advertising
+23:26:28.483624683
+start presentation advertising
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+23:26:50.038512656
+start presentation __settings__
+Starting media video
+23:26:50.154453756
+start presentation video
+Starting media advertising
+23:27:07.132647707
+start presentation advertising
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+23:27:28.749964193
+start presentation __settings__
+Starting media video
+23:27:28.866521369
+start presentation video
+Starting media advertising
+23:27:45.828851899
+start presentation advertising
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+23:28:07.511739630
+start presentation __settings__
+Starting media video
+23:28:07.627927474
+start presentation video
+Starting media advertising
+23:28:24.620322338
+start presentation advertising
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+23:28:46.247585364
+start presentation __settings__
+Starting media video
+23:28:46.364613134
+start presentation video
+Starting media advertising
+23:29:03.339550214
+start presentation advertising
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+23:29:24.987974534
+start presentation __settings__
+Starting media video
+23:29:25.098466115
+start presentation video
+Starting media advertising
+23:29:42.081138357
+start presentation advertising
+stop presentation advertising
+stop presentation video
+Iniciando o Ginga
+23:30:03.629351585
+start presentation __settings__
+Starting media video
+23:30:03.746498503
+start presentation video
+Starting media advertising
+23:30:20.721958524
+start presentation advertising
+stop presentation advertising
+stop presentation video
